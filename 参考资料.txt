@@ -1,0 +1,5 @@
+http://www.cnblogs.com/mingcn/archive/2010/10/31/aes_c.html#!comments
+https://github.com/matt-wu/AES#%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%BC%8F
+https://leerw.github.io/%E5%AF%86%E7%A0%81%E5%AD%A6/2017/09/26/%E5%8D%81%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82AES%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/
+https://wenku.baidu.com/view/954163d8650e52ea551898cd.html
+https://blog.csdn.net/bupt073114/article/details/27382533
